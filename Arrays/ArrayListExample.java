@@ -1,6 +1,15 @@
 import java.util.ArrayList;
 
 public class ArrayListExample {
+    /*
+    * Creating an ArrayList.
+        Adding a new ArrayList item using add().
+        Accessing the size of an ArrayList using size().
+        Finding an item by index using get().
+        Changing the value of an ArrayList item using set().
+        Removing an item with a specific value using remove().
+        Retrieving the index of an item with a specific value using indexOf().
+    * */
     public static void main(String[] args) {
 
         // Sherlock
@@ -38,5 +47,20 @@ public class ArrayListExample {
         System.out.println(sherlocksToDos.toString() + "\n");
         System.out.println("Poirot's to-do list:");
         System.out.println(poirotsToDos.toString());
+
+//        Getting an Item's Index
+
+        /*What if we had a really large list and wanted to know the position of a certain
+        element in it? For instance, what if we had an ArrayList detectives with the names
+        of fictional detectives in chronological order, and we wanted
+        to know what position of an item was.*/
+
+
+        // Calculate to-dos until case is solved:
+        int a = sherlocksToDos.indexOf("solve the case");
+
+        // Change the value printed:
+        System.out.println("PRINT THE ANSWER HERE");
+        System.out.println(a);
     }
 }
