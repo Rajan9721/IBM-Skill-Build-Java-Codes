@@ -10,7 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Conditional Operator Ex3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Conditional Operator Ex4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Loops" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/StringMethods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String-Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2D Arrays Example" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
